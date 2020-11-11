@@ -1,0 +1,40 @@
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.exe
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.deps.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.runtimeconfig.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.runtimeconfig.dev.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.dll
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.pdb
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.csprojAssemblyReference.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.AssemblyInfoInputs.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.AssemblyInfo.cs
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.csproj.CoreCompileInputs.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.RazorTargetAssemblyInfo.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\staticwebassets\ASP NET CORE DOCKER API.StaticWebAssets.Manifest.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\staticwebassets\ASP NET CORE DOCKER API.StaticWebAssets.xml
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.dll
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.pdb
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.genruntimeconfig.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.exe
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.deps.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.runtimeconfig.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.runtimeconfig.dev.json
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.dll
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\bin\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.pdb
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.csprojAssemblyReference.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.AssemblyInfoInputs.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.AssemblyInfo.cs
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.csproj.CoreCompileInputs.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.RazorTargetAssemblyInfo.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\staticwebassets\ASP NET CORE DOCKER API.StaticWebAssets.Manifest.cache
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\staticwebassets\ASP NET CORE DOCKER API.StaticWebAssets.xml
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.dll
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.pdb
+C:\Users\mixa_\OneDrive\Documentos\UDEMY\ASP NET CORE API\ASP NET CORE DOCKER API - V1\ASP NET CORE DOCKER API\obj\Debug\netcoreapp3.1\ASP NET CORE DOCKER API.genruntimeconfig.cache
